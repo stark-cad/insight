@@ -1,0 +1,780 @@
+001. a d | Peruse text document by contents, sections, headings
+
+002. a d | Peruse script by character names, text type
+
+003. a d h | Annotate text on "another layer" which may be enabled,
+             disabled, or viewed separately
+
+004. a b | Permit 2D sketches alongside text, even in notes
+
+005. d e | Review one structure while gathering insights into another
+           one
+
+006. e | Link specific "chunks" of one structure to another one,
+         easily
+
+007. a | Annotate and summarize more naturally than with a writing
+         utensil
+
+008. b e f | 2D "document space" flexible as paper, but for both
+             modification and creation
+
+009. d e i | Links between documents and structures may be
+             multidimensional, but views themselves generally limited to 2D
+
+010. e | Unrestricted rearrangement and editing of "chunks" in the
+         structure
+
+011. d i | Automatic generation of certain views into a structure
+
+012. d i | User controlled generation of certain structure views
+
+013. e f g | Permit _disorderly work_ by a designer, as unconstrained
+             as possible
+
+014. d e m | Make it difficult to "lose" ideas or progress in the
+             shuffle
+
+015. e | Split one workspace into several / rearrange the structure
+
+016. d f g l | Work with documentation alongside designs while keeping
+               both organized and accessible
+
+017. d m | Track drafts and versions through time
+
+018. e h | Link multiple "chunks" together as representing the same
+           thing
+
+019. d e | Copy and rearrange chunks to work something out (keep them
+           linked to ground truth)
+
+020. d e | Plan however you want, but bring up useful structure views
+           any time
+
+021. b c f | Create multiple reference models to use in later design
+             processes
+
+022. d m | Keep track of multiple chosen views without duplicating
+           data
+
+023. a b c h | Connect notes and 2D structures to a 3D model /
+               structure
+
+024. b c | Construct 3D models using constrained sketches and various
+           tools
+
+025. b | Create precise sketches with a simple, quick interface
+
+026. b c k | Tools to analyze characteristics of a sketch or model
+             (these are structures like everything else)
+
+027. b c j k | Bring various models into an already prepared reference
+               / testing environment
+
+028. b c f | Use certain models as references to create more explicit
+             models
+
+029. b c e | Conceptually link many models together as representing a
+             certain design (a subtree or substructure)
+
+030. b c i | Automatically generate lists of certain model
+             characteristics
+
+031. g | Permit creation and use of tools for certain disciplines,
+         like architecture or set design more specifically
+
+032. f l | Create documents that describe how to construct a product
+
+033. f i l | Use templates and rules to generate blueprints with ease
+
+034. e f g | Avoid unnecessary room for error, such as copying values
+             by hand
+
+035. d e | When a product describes another product or process, ensure
+           that they are directly linked: one "depends on" the other
+
+036. d e m | Keep entire projects together in a flexible, treelike
+             concept structure
+
+037. d f g m | Permit tracking fabrication / implementation
+               information alongside design information
+
+038. d | Each structure has a "top level" through which the rest of it
+         may be summarized and accessed quickly
+
+039. e n | Let design structures become community knowledge bases that
+           gather information about the project
+
+040. d m | Keep progress tracking directly linked to design
+           information; prevent aspects of a project from falling out
+           of sync
+
+041. d m | Preserve structures in a readable form for future reference
+
+042. d | "Walk through" an entire structure with ease (Org but much
+         more)
+
+043. a d h | Annotate a document (a chunk of "read only" text) with
+             one or more chunks of "read and modify" text intermingled
+             in the same view
+
+044. d h | Permit annotations to be in view but not visible, by
+           collapsing them and leaving an indicator behind
+
+045. d h | View / examine annotations entirely separately from their
+           target
+
+046. d i | Generate new views of one or more structures at once by
+           using something like a search
+
+047. e | Work freely in a contiguous area, like a sheet of paper
+
+048. e m | Place headers on sections of a workspace; these are part of
+           the structure and can be used for reference later
+
+049. d | Simultaneously break up a structure along multiple strata
+
+050. e | Disorderly work, similar to working with a concept in the
+         brain
+
+051. d i | The work should be easy to examine in orderly ways
+
+052. b c | 2D or 3D reference model to build up different ideas, like
+           a whiteboard pattern
+
+053. d e h | Always have the potential to view and create annotations,
+             sketches, links within another structure
+
+054. d e | Associate certain "chunks" in a structured way without
+           damaging the structure from which they arose
+
+055. e | Specific and flexible links: down to a certain part of a
+         chunk
+
+056. f m | Track characteristics of real world resources
+
+057. e k | Create tables with custom fields, by which they may be
+           sorted etc
+
+058. d i | Use a table / "structured list" to generate views via
+           association with a template
+
+059. b i | Dynamically generate diagrams (automatic or user specified)
+
+060. g j | Permit custom tools for modifying / simulating a certain
+           kind of environment simply
+
+061. g | Use information from tables as partial input to a custom tool
+
+062. g h | Specify which parts of the structure tool input will come
+           from
+
+063. e | Create new tables that are directly referenced to previous
+         ones
+
+064. i | Use compounded tables to generate new views / diagrams
+
+065. f m | Set real world targets and record their completion
+
+066. d e | Edit one underlying data set from multiple parts of the
+           structure
+
+067. m n | Manage easily accessible work orders for a team of people
+
+068. d e k | Permit tables that act somewhat like spreadsheets when
+             desired
+
+069. d e | Tables may be almost entirely made up of various links /
+           references
+
+070. d i k | Analyze (generate new views of) a table (including links)
+             on the fly
+
+071. d f | Allow many parts of the structure to smoothly come together
+           to aid a product or process
+
+072. g i | Permit tools that take structured input and then output
+           configuration / instruction files for certain external systems
+
+073. e h m | Reflect "in the field" changes in the design documents,
+             perhaps by marking such annotations as being added after a
+             certain time
+
+074. d m | Find the underlying structure and logic of a document for
+           easy reuse
+
+075. d h l | Overview an entire structure and leave behind helpful
+             notes throughout, for oneself or others
+
+076. d | Custom calendars for working with time referenced information
+
+077. d e n | Single structure available to a whole group of people at
+             once
+
+078. d | Structures that "center on" a particular view or set of data
+
+079. f m | Track the completion of a flow of tasks in the real world
+
+080. d f m | Collect all the information relating to a progressing or
+             completed process in one place
+
+081. d n | Particular views have particular significance to particular
+           contributors
+
+082. i l m | Maintain sets of information that may be exported in
+             various formats for external consumption
+
+083. d | Mix documents together in multiple dimensions to create
+         useful new views
+
+084. d | Smoothly navigate many views and link structures (avoid
+         complecting unnecessarily)
+
+085. h m | Track appointments / deadlines and deliver useful reminders
+
+086. o | Access some amount of functionality from a mobile application
+
+087. d m | Permit an "agenda" that is always within reach, for those
+           things that a user wants to keep track of at all times
+
+088. e k | Collect / analyze new info fast (no barrier to entry (get
+           it))
+
+089. e | Open a fresh "scratch" space, in or out of context, to do
+         quick work at any time
+
+090. e h i | Make it easy to link ideas, and perhaps link some
+             automatically
+
+091. d | View a document / space from various scopes and "angles"
+
+092. d | Assess multiple distinct aspects of a completed project at
+         once
+
+093. h | Intersperse new annotations of various types with older
+         structure
+
+094. d h | Mark certain "chunks" to be added to another view elsewhere
+           in the structure
+
+095. e | Open a fresh document as needed, in context or otherwise (how
+         exactly?)
+
+096. e | Jump around and build up ideas the way one would on sheets of
+         paper
+
+097. l m | Keep valuable planning documents available for future
+           reference
+
+098. b | Make freehand 2D sketches more easily than with pencil,
+         paper, and ruler
+
+099. d | Have multiple ways to view multiple documents at once, such
+         as side by side or overlaid
+
+100. o | Manipulate tools using mouse plus chords or using the
+         keyboard
+
+101. b | Powerful drawing tool that may be operated with relative ease
+         (insert primitive elements, connect points, change color)
+
+102. b | Guides, grids, and snapping available for 2D design work
+
+103. b | Dimensions and constraints permitted for all 2D design work
+
+104. f g | Set rules for a particular design to simplify and avoid
+           error
+
+105. b c f g | Maintain a design element "library" for reuse in a
+               project
+
+106. b c f g | Add rules to design elements for simple customization
+
+107. b | Work with vector art from a similar paradigm as 3D design
+
+108. b c f g | Edit elements independent of particular design context
+
+109. b c f g | Bring elements into layouts and permit customization in
+               place
+
+110. b c f g | Edit elements outside of layout context, but with
+               layout shown
+
+111. a b c e | Allow designer to use tools at will, without
+               constraints
+
+112. a b c e | Make certain tools more accessible or available
+               according to editing context (text, graphical, 3D)
+
+113. d n | Permit multiple parties to review an entire conceptual
+           structure
+
+114. d h m n | Annotate structures on another layer, track who left a
+               comment and when, and allow viewing all together
+
+115. a | Quickly collate one list into a shorter list of more
+         importance
+
+116. e | Move certain "chunks" to a top level or link them to own
+         agenda
+
+117. b i | Export 2D graphics to all common formats at the least
+
+118. b i | Native support for printing and plotting graphics
+
+119. b c f g | Use one design as reference while working on another
+
+120. b c | Easily bring designs between mediums (graphic design
+           becomes constrained sketch for extrusion in a 3D model)
+
+121. g | Design and test native tools for STARK wholly within STARK
+
+122. a b e | Bring external assets like images into a document;
+             display and arrange along with text and more
+
+123. b c h | Annotate any structure, including directly on 2D graphics
+             or 3D models (associated, but also otherwise viewable)
+
+124. d e h | Even annotate the structure and "design space" itself
+
+125. e | Link or clone chunks from one structure into another with a
+         different overarching purpose
+
+126. f g | Allow iterative design, using feedback from later stages to
+           improve on earlier ones
+
+127. d e l | Have certain "living documents" in structures that are
+             meant to be refined over time to guide development
+
+128. f g k | Break a large idea / system down into many simple
+             components
+
+129. b d | Create layered views / diagrams, and move "up" and "down"
+           throughout
+
+130. d | View a multiply linked structure through many views and
+         dimensions
+
+131. f g | Work with similar systems similarly (processes, programs,
+           circuits)
+
+132. f m | Keep track of requirements for parts of a product or
+           process, the whole, and by requirement category
+
+133. f g | Permit setting design rules to impose or check for
+           necessary requirements and characteristics on certain sections
+
+134. f l | Allow browsing repositories of data about real world
+           components to be used in a design
+
+135. d f i | View design requirements all together and easily use them
+             to generate views of component data
+
+136. b d e | Connect particular design products (schematics) to
+             certain parts of the conceptual structure
+
+137. b f g | Have tools for particular kinds of diagramming, built
+             atop the basic diagram creation facilities
+
+138. b i j k | Generate logical representations of a diagram's meaning
+               for use in analysis and simulation
+
+139. f j | Provide simulation algorithms for various systems and
+           environments
+
+140. i j | Simplify or automate tuning of simulation algorithms
+
+141. d k | Permit creating and working with graphs and sets of data
+
+142. e f | Take graph "chunks" and place them in appropriate design
+           documents
+
+143. b e | Create multiple linked diagrams / schematics for multiple
+           purposes
+
+144. b c i | Produce fabrication instructions for machines or humans
+             from appropriate schematics
+
+145. b c d i | Automatic partial generation of schematics / views that
+               depend directly on others
+
+146. b c d k | Automatic checking of schematics / views that must
+               reflect others
+
+147. b c i | Generate accurate 3D models from schematics containing
+             all relevant information
+
+148. j | Run multiple simulations that vary in fidelity, and thus
+         accuracy
+
+149. j k m | Collect potentially vast troves of data from simulation
+             and / or reality for analysis
+
+150. d k | Flexibly view and visualize sets of data to gain insights
+
+151. e h m | Take visualized results and the information that produced
+             them, and attach it to appropriate design documents
+
+152. b c f i | Generate bills of materials from schematics or models
+
+153. f i | Simply export instructions targeted to any manufacturing
+           machinery
+
+154. c i | Produce custom rendered views of models for various
+           purposes
+
+155. a b c m | Provide something similar to a version control system,
+               but for schematics, models, and whole structures as well as text
+
+156. d f g m | Track test and validation progress alongside design
+               information
+
+157. e h m | Link notes, issues, and plans directly to parts of the
+             design
+
+158. d i m | Show testing information in many different useful views
+
+159. d i | Give information multiple dimensions of association for
+           viewing
+
+160. h l | Encourage users to document their work as they produce it
+
+161. i l | Document work automatically and visibly whenever feasible
+
+162. l m | Let the structure of the project act as documentation
+           itself
+
+163. e h l | Permit documenting the project structure, its purposes,
+             and any additional capabilities, directly
+
+164. e f g l | Link documentation directly into the design information
+
+165. d i l | Access documentation together and generate views by
+             "searching"
+
+166. b e l | Allow structured documentation that includes diagrams and
+             more
+
+167. e m | Allow radical project restructuring without loss of
+           information
+
+168. f | Design processes to support products alongside the products
+
+169. e m | Create new structures that borrow certain portions from
+           past ones
+
+170. e f | Build up a product and a process together, keeping their
+           designs linked to ease constant improvement
+
+171. d f m | Track issues and changes all together when desired, even
+             when a project contains multiple products or processes
+
+172. f n | Design entire systems that include design, products,
+           processes, and people
+
+173. e | Scale up project and structure from one design to an entire
+         system as needed
+
+174. d e k | Keep a project / structure focused on its most important
+             aspects
+
+175. d f k | Permit ongoing review of a structure and its products and
+             processes
+
+176. e h l | Enable "curating" a structure for the benefit of those
+             seeking to learn from it
+
+177. d n | Make it simple to share structures with others and examine
+           structures by others
+
+178. d m | Track and capture plans and next steps across structures
+
+179. d e k | Guide research using structures and links (internal or
+             external)
+
+180. d k | Look at known requirements in multiple ways to determine
+           others
+
+181. k | Permit mathematical analysis of both known and unknown values
+
+182. d e | Bring multiple views or documents together, editing some
+           and using others for reference
+
+183. b i | Convert 2D graphics between "types" if they fit certain
+           requirements
+
+184. b | Allow tools from 2D CAD and from vector graphics during 2D
+         editing
+
+185. a b c e | Make sure that tools available for a particular editing
+               "mode" only create results that follow the rules of that mode
+
+186. c | Include regular 3D geometry manipulation tools like extrusion
+         etc
+
+187. c | Permit constrained sketches and geometry creation on any face
+
+188. c | Create geometry directly on curved surfaces in various ways
+
+189. b c g i | Allow creation of new programmatic tools for
+               manipulating 2D and 3D structures (take inputs and
+               change them or produce new elements)
+
+190. b c | Have tools like 2D and 3D splines for freehand geometry
+           creation
+
+191. b c i | Tools to automatically generate some geometry according
+             to algorithm
+
+192. b c m | Track a sequence of changes to the model, as in current
+             CAD software
+
+193. c j | Provide a wide variety of 3D physical simulations for 3D
+           models
+
+194. j k | Visualize simulation data with graphs and false color model
+           views
+
+195. i j k | Come up with results that include probability
+             distributions for certain events under certain conditions
+
+196. j | Enable extremely fast simulations compared to state of the
+         art
+
+197. c i | Generate machine instructions for automated manufacturing
+           equipment from a 3D model
+
+198. b c i | Generate blueprints for a human machinist from a 3D model
+
+199. d i j | Preview / customize production instructions before final
+             generation
+
+200. f i m | Track design revisions and automate production
+             instruction creation
+
+201. f j | Plan virtual simulations and real world testing in a
+           similar way
+
+202. f m | Maintain information about a testing campaign down to
+           individual tests and prototypes
+
+203. d e | Categorize documents and view certain information from many
+           at once
+
+204. e f | Devise and improve a product and its associated processes
+           together
+
+205. d l | Gather documentation information from throughout a concept
+           structure
+
+206. j k l m | Use simulation / testing data to determine tolerances
+               and conditions
+
+207. e h l | Permit documenting while designing, linking in design
+             information
+
+208. i l | Export documentation in various formats for external
+           consumption
+
+209. f i m | Allow setup of automatic design data export for various
+             production systems, or other purposes
+
+210. e f | Restructure a project to design a scale fabrication system
+           alongside the product to be produced
+
+211. d m | Work with linked real world data and design data in the
+           same project
+
+212. d e n | Make a project structure available to the project's
+             entire team
+
+213. d e n | Give edit access and view focus of different areas to
+             certain people
+
+214. e f m n | Hold the knowledge of an entire system of products,
+               processes, and people in a single growing, improving
+               conceptual structure
+
+215. d e | Permit as much control as possible over structural
+           arrangement
+
+216. e | Encourage users to create structures that are simple and
+         useful
+
+217. d i | View structures in unlimited ways, regardless of their
+           arrangement
+
+218. h m n | Track commentary and additions to the structure by many
+             individuals
+
+219. d k m n | Analyze contributions to a structure in the same way as
+               other data
+
+220. e m | Allow extracting chunks of information to guide future
+           design work
+
+221. f g | Encourage good design practices that avoid bloat, creep,
+           and excess
+
+222. f g l m | Track and check engineering requirements as well as
+               constraints
+
+223. f g l | Keep core requirements and focus always accessible for
+             the designer
+
+224. f l m | Keep track of inputs, outputs, and their importance for
+             processes and appropriate products
+
+225. d e f | Encourage the "internals" of structures, processes, and
+             complex products to remain conceptually simple
+
+226. d e l | Keep high level designs at hand while working on lower
+             level designs
+
+227. b k | Perhaps interpret and analyze certain logical / design
+           diagrams
+
+228. d f m | Work with conceptual designs and requirements along with
+             the designed process or product itself
+
+229. d m | Compare interface designs for a software system to the
+           actual result
+
+230. b c e k | Automatically analyze diagrams / structures according
+               to certain rules, perhaps checking for unnecessary portions
+
+231. b d | Maintain a conceptual diagram representing the behavior of
+           a software tool
+
+232. b d | Maintain a conceptual diagram representing the organization
+           of files for a software tool
+
+233. d | Enable views that show how files or documents are structured
+         and permit accessing them directly
+
+234. a b i | Generate schematic depictions of program code from source
+             files
+
+235. a b i | Generate a set of source file headers from a schematic
+             depiction
+
+236. d l | Quick reference to plans and diagrams while editing a
+           document
+
+237. d k l | Similar features to language servers, including fast
+             lookup and navigation
+
+238. d i | Fast view based navigation anywhere in a document or
+           structure
+
+239. a d | Search and examine source code through useful generated
+           views
+
+240. d g i | Store scripts to run certain view generations again and
+             again
+
+241. a | All the text editing features of Emacs, and more
+
+242. a b c e | Macro and snippet system for text, and ideally for 2D
+               and 3D
+
+243. d h m | Track the links and dependencies between files and / or
+             documents
+
+244. d f | Use a "dependency tree" view to work on scripting software
+           builds, manufacturing data exports, etc
+
+245. b o | Allow 2D interfaces as flexible and more useful than text
+           config
+
+246. i k | Visualize build / export processes with various
+           configurations
+
+247. m | Keep project files (especially software) portable and all
+         together
+
+248. g j | Include native testing for STARK tools and other software
+           projects
+
+249. g j k | Enable automatic traces of tool runs, such as tests and
+             simulations
+
+250. g k | Analyze and view performance of software tools in several
+           ways
+
+251. o | Integrate with existing design / development tools as
+         necessary
+
+252. g j k | Include powerful debugging for native tools and programs
+             by users
+
+253. j k | Include debugging facilities for other, nonnative,
+           languages
+
+254. j k | Examine function stack, bound variables, and performance at
+           any time
+
+255. j k m | Gather data from program execution and make it available
+             for examination and visualization, like simulation data
+
+256. g k | Check tool and software behavior according to a set of
+           rules
+
+257. e h l | Record issues and needs along with links to the relevant
+             data
+
+258. d j m | Bring testing information together and view it in
+             multiple ways
+
+259. d m | Bring issues and plans together to examine by category or
+           qualities
+
+260. f g l | Write documentation while designing, without having to
+             "shift" back and forth conceptually
+
+261. e l | Link documentation directly to the relevant aspects of a
+           design
+
+262. d l | View the design alone, documentation alone, or both
+           together
+
+263. i l | Automatically format documentation text for display as
+           desired
+
+264. d e l | Keep documentation as a conceptual structure, not just
+             "pages"
+
+265. b l | Create or add helpful diagrams to the documentation swiftly
+
+266. i l | Export or build documentation in various formats for
+           nonnative use
+
+267. d e | When a project requires multiple steps of "building",
+           permit working with them in a similar, structured way
+
+268. f g m | Manage a breadth of project information alongside design
+             information
+
+269. g i | Manage automated processes like builds and exports with
+           scripts or "recipes" that adapt to conditions
+
+270. m o | Perhaps allow serving different kinds of files from a STARK
+           server
+
+271. a b o | Create and manage websites and other internet services
+             directly
+
+272. d o | Serve structures intended for the public to browse and
+           learn from
+
+273. d h m | Overview an entire structure while focused on a certain
+             kind of "chunk", such as reported issues
+
+274. d e h | Keep track of problems or possible improvements to the
+             design structure itself
+
+275. d e f g | Help users customize structures into transparent
+               systems that help them do better design work
+
+276. o | Allow users to easily report bugs, issues, or complaints
+         directly to the STARK development team
